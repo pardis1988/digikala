@@ -1,0 +1,210 @@
+[
+  {
+  "suggestedCategories": [
+    {
+      "id": 1,
+      "image": "/images/hed.jpg",
+      "title": "هدفون، هدست و هندزفری",
+      "row": 1
+    },
+    {
+      "id": 2,
+      "image": "/images/watch.webp",
+      "title": "ساعت هوشمند",
+      "row": 1
+    },
+    {
+      "id": 3,
+      "image": "/images/tablet.webp",
+      "title": "تبلت",
+      "row": 1
+    },
+    {
+      "id": 4,
+      "image": "/images/game.jpg",
+      "title": "کنسول خانگی",
+      "row": 1
+    },
+    {
+      "id": 5,
+      "image": "/images/hard.webp",
+      "title": "هارد دیسک اکسترنال",
+      "row": 1
+    },
+    {
+      "id": 6,
+      "image": "/images/glasses.webp",
+      "title": "عینک هوشمند",
+      "row": 1
+    },
+    {
+      "id": 7,
+      "image": "/images/cabl.webp",
+      "title": " کابل شارژ و مبدل",
+      "row": 1
+    },
+    {
+      "id": 8,
+      "image": "/images/lap.webp",
+      "title": "لپ تاپ و الترابوک ",
+      "row": 2
+    },
+    {
+      "id": 9,
+      "image": "/images/powerbank.webp",
+      "title": " پاوربانک(شارژر همراه)",
+      "row": 2
+    },
+    {
+      "id": 10,
+      "image": "/images/spiker.webp",
+      "title": "اسپیکر(بلندگو) ",
+      "row": 2
+    },
+    {
+      "id": 11,
+      "image": "/images/sharzh.webp",
+      "title": " شارژر تبلت و موبایل",
+      "row": 2
+    },
+    {
+      "id": 12,
+      "image": "/images/mous.webp",
+      "title": " ماوس (موشواره)",
+      "row": 2
+    },
+    {
+      "id": 13,
+      "image": "/images/Keyboard.webp",
+      "title": "کیبورد (صفحه کلید) ",
+      "row": 2
+    },
+    {
+      "id": 14,
+      "image": "/images/modem.webp",
+      "title": " مودم - روتر 3G و 4G",
+      "row": 2
+    }
+  ]
+},
+
+{
+  "products": [
+    {
+       "id": 1,
+      "image": "/images/hed.jpg",
+      "title": "هدفون بلوتوثی",
+      "row": 1
+
+    },
+        {
+       "id": 2,
+      "image": "/images/10.jpg",
+      "title": "دوربین  مدار بسته تحت شبکه ",
+      "row": 1
+    },
+        {
+       "id": 3,
+      "image": "/images/spiker-n.webp",
+      "title": "اسپیکر بلوتوثی قابل حمل لونکس ",
+      "row": 1
+    },
+         {
+       "id": 4,
+      "image": "/images/paye.webp",
+      "title": "پایه نگهدارنده لپ تاپ",
+      "row": 1
+    },
+         {
+       "id":5 ,
+      "image": "/images/hed3.webp",
+      "title": "هدفون بولوتوثی موزیک آپولو  ",
+      "row": 1
+    },
+         {
+       "id": 6,
+      "image": "/images/hed1.webp",
+      "title": "هدفون بلوتوثی",
+      "row": 1
+    },
+             {
+       "id": 7,
+      "image": "/images/hed2.webp",
+      "title": "هدفون بلوتوثی",
+      "row": 2
+    },
+             {
+       "id": 8,
+      "image": "/images/bargh.webp",
+      "title": " مبدل برق هادرون ",
+      "row": 2
+    },
+                {
+       "id": 9,
+      "image": "/images/game1.webp",
+      "title": " دسته بازی پلی استیشن  ",
+      "row": 2
+    },
+                {
+       "id": 9,
+      "image": "/images/bargh.webp",
+      "title": " مبدل برق هادرون ",
+      "row": 2
+    },
+                {
+       "id": 10,
+      "image": "/images/heddd.webp",
+      "title": "هدفون بلوتوثی",
+      "row": 2
+    },
+    {
+       "id": 11,
+      "image": "/images/powerbank.webp",
+      "title": "پاوربانک 18 وات شیایومی مدل Redmi ",
+      "row": 2
+    },
+        {
+       "id": 12,
+      "image": "/images/10.jpg",
+      "title": "دوربین مداربسته تحت شبکه وونک ",
+      "row": 2
+    },
+            {
+       "id": 13,
+      "image": "/images/roter.webp",
+      "title": " مودم روتر + ADSL2 تی پی - لینک ",
+      "row": 3
+    },
+                {
+       "id": 14,
+      "image": "/images/2.webp",
+      "title": "هدفون بلوتوثی موزیک آپولو",
+      "row": 3
+    },
+  {
+       "id": 15,
+      "image": "/images/roter4.webp",
+      "title": "مودم روتر دی - لینک",
+      "row": 3
+    },
+      {
+       "id": 16,
+      "image": "/images/botri.webp",
+      "title": "باتری نیم قلمی کملیون",
+      "row": 3
+    },
+      {
+       "id": 17,
+      "image": "/images/mobdel.webp",
+      "title": "مبدل برق هادرون",
+      "row": 3
+    },
+      {
+       "id": 18,
+      "image": "/images/44.webp",
+      "title": "هدفون بلوتوثی انکر",
+      "row": 3
+    }
+  ]
+}
+]
